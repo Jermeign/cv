@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa|Shadows+Into+Light&display=swap');
+
+body {
+  margin: 0;
+  color: #000;
+  font-family: verdana, sans-serif;
+}
+
+
+
+.intro-container {
+  background-color: 	#a3d7f0;
+  text-align: center;
+  position: relative;
+  padding-top: 100px;
+}
+
+.center-container {
+  text-align: center;
+  margin: 0 auto;
+
+}
+
+.bottom-container {
+  text-align: center;
+  margin: 20px auto;
+}
+
+.bottom-container a {
+  margin: 10px;
+}
+
+.intro-salute {
+  margin-top: 0;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 62px;
+}
+
+.intro-description {
+  font-family: 'Comfortaa', cursive;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.profile {
+  margin: 35px auto;
+  width: 75%;
+}
+
+.skills {
+  margin: 20px auto;
+  width: 75%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+/* .mountin {
+  width: 700px;
+  height: 700px;
+} */

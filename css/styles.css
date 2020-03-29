@@ -31,7 +31,7 @@ body {
 }
 
 .intro-salute {
-  margin-top: 0;
+  margin: 50px auto 0 auto;
   font-family: 'Shadows Into Light', cursive;
   font-size: 62px;
 }
@@ -53,7 +53,33 @@ body {
 
 .skills {
   margin: 20px auto;
-  width: 75%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+
+.skill-row > h3 {
+  color: #11999e;
+  margin-top: 30px;
+}
+
+.web-dev-img {
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+
+.data-img {
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+.skill-row > p {
+  line-height: 2;
 }
 
 .bottom-cloud {
